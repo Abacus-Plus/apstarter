@@ -35,5 +35,6 @@ $taglines = $header['taglines'];
 
 
 <body <?php body_class(); ?>>
+<?php echo '<h1>testiram push to deploy</h1>'; ?>
 
 	<?php wp_body_open(); ?>
